@@ -1,6 +1,6 @@
 $ORIGIN cloud.local.
 $TTL 3H
-@		IN SOA	@. cloud.local. (
+@		IN SOA	@ cloud.local. (
 				119        ; serial
 				86400      ; refresh (1 day)
 				3600       ; retry (1 hour)
